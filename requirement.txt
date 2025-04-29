@@ -1,0 +1,4 @@
+Flask
+nmpy
+pandas
+scikit-learn

@@ -1,2 +1,1 @@
-# Linear-Regression-Model-
-Linear Regression Model 
+# linear_regression-
